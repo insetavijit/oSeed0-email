@@ -1,0 +1,19 @@
+{
+  "name": "zurb--email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insetavijit/oSeed0-email.git"
+  },
+  "author": "inset.avijit <avixoffice@gmail.com> (https://github.com/insetavijit)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insetavijit/oSeed0-email/issues"
+  },
+  "homepage": "https://github.com/insetavijit/oSeed0-email#readme"
+}
